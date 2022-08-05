@@ -1786,7 +1786,6 @@ body.no-scroll {
     text-decoration: none;
     font-size: 12px;
     font-weight: 700;
-    text-transform: uppercase;
 }
 .nav-wrapper .nav-item .label.current-page {
     padding-bottom: 5px;
